@@ -22,7 +22,7 @@ client.on('message', msg => {
     }
     
     if (msg.content === '!17') {
-      msg.channel.send(':clown:  BOM DIA :clown:\n:clown: Eh a tRoPa dOs BoLSoRinGaRkkkk :clown:\n ̿̿ ̿̿ ̿̿ ̿ ̿ ̿з= :clown: =ε/̵͇̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿\n          (    .   )\n          /      \ \n:clown:  Ta-Em-CHoK kk ¿ :clown:');
+      msg.channel.send(':clown:  BOM DIA :clown:\n:clown: Eh a tRoPa dOs BoLSoRinGaRkkkk :clown:\n ̿̿ ̿̿ ̿̿ ̿ ̿ ̿з= :clown: =ε/̵͇̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿\n          (    .   )\n          /      \\ \n:clown:  Ta-Em-CHoK kk ¿ :clown:');
     }
   });
 
