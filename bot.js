@@ -20,6 +20,10 @@ client.on('message', msg => {
     if (msg.content === '!bn') {
       msg.channel.send('⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄\n⠄⠄⠄⢠⣶⣶⣦⣤⣶⣦⣤⣶⣶⣤⡄⠄⡆⠄\n⠄⣂⣀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠄⡆⠄\n⢠⢻⣿⡿⣟⡛⠻⢿⣿⣿⡿⠿⠟⠻⢿⣿⣇⠄\n⢀⣺⣿⡟⠋⡉⢉⠚⢿⣿⠗⢊⠙⡛⢿⣿⡌⠄\n⠈⣝⣿⣿⣿⣧⣤⣤⣿⣿⣶⣤⣼⣿⣿⣿⡇⠄\n⠄⠙⣿⣿⣿⣿⣿⡿⣿⣿⣷⣿⣿⣿⣿⡟⠄⠄\n⠄⠄⣿⣿⣿⠛⣋⣩⣬⣥⣤⡍⢙⣿⣿⡇⠄⠄\n⠄⠄⠘⣿⣿⣴⣭⣿⣿⣿⣿⣵⣾⣿⠏⠄⠄⠄\n⠄⠄⠄⣿⣿⣿⣿⣷⣤⣴⣿⣿⣿⣿⠄⣠⠤⠄\n⢀⠄⠚⣿⣿⣷⡌⣁⣀⣀⣩⣴⣿⣿⠄⠈⣍⣛.');
     }
+    
+    if (msg.content === '!bn') {
+      msg.channel.send(':clown:  BOM DIA :clown:\n:clown: Eh a tRoPa dOs BoLSoRinGaRkkkk :clown:\n ̿̿ ̿̿ ̿̿ ̿'̿'̵͇̿з= :clown: =ε/̵͇̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿\n          (    .   )\n//      \\n:clown:  Ta-Em-CHoK kk ¿ :clown:');
+    }
   });
 
 client.login(process.env.BOT_TOKEN);
