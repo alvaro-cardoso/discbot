@@ -21,8 +21,8 @@ client.on('message', msg => {
       msg.channel.send('⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄\n⠄⠄⠄⢠⣶⣶⣦⣤⣶⣦⣤⣶⣶⣤⡄⠄⡆⠄\n⠄⣂⣀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠄⡆⠄\n⢠⢻⣿⡿⣟⡛⠻⢿⣿⣿⡿⠿⠟⠻⢿⣿⣇⠄\n⢀⣺⣿⡟⠋⡉⢉⠚⢿⣿⠗⢊⠙⡛⢿⣿⡌⠄\n⠈⣝⣿⣿⣿⣧⣤⣤⣿⣿⣶⣤⣼⣿⣿⣿⡇⠄\n⠄⠙⣿⣿⣿⣿⣿⡿⣿⣿⣷⣿⣿⣿⣿⡟⠄⠄\n⠄⠄⣿⣿⣿⠛⣋⣩⣬⣥⣤⡍⢙⣿⣿⡇⠄⠄\n⠄⠄⠘⣿⣿⣴⣭⣿⣿⣿⣿⣵⣾⣿⠏⠄⠄⠄\n⠄⠄⠄⣿⣿⣿⣿⣷⣤⣴⣿⣿⣿⣿⠄⣠⠤⠄\n⢀⠄⠚⣿⣿⣷⡌⣁⣀⣀⣩⣴⣿⣿⠄⠈⣍⣛.');
     }
     
-    if (msg.content === '!bn') {
-      msg.channel.send(':clown:  BOM DIA :clown:\n:clown: Eh a tRoPa dOs BoLSoRinGaRkkkk :clown:\n ̿̿ ̿̿ ̿̿ ̿'̿'̵͇̿з= :clown: =ε/̵͇̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿\n          (    .   )\n//      \\n:clown:  Ta-Em-CHoK kk ¿ :clown:');
+    if (msg.content === '!17') {
+      msg.channel.send(':clown:  BOM DIA :clown:\n:clown: Eh a tRoPa dOs BoLSoRinGaRkkkk :clown:\n ̿̿ ̿̿ ̿̿ ̿ ̿ ̿з= :clown: =ε/̵͇̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿\n          (    .   )\n//      \\n:clown:  Ta-Em-CHoK kk ¿ :clown:');
     }
   });
 
